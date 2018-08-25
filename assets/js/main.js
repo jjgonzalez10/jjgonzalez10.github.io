@@ -410,6 +410,24 @@
 
 				});
 
+				$parrafo2.on('click', function(event) {
+
+					// Article visible? Hide.
+					$('#Proyecto1').hide();
+					$('#Proyecto2').show();
+					$('#Proyecto3').hide();
+
+				});
+
+				$parrafo3.on('click', function(event) {
+
+					// Article visible? Hide.
+					$('#Proyecto1').hide();
+					$('#Proyecto2').hide();
+					$('#Proyecto3').show();
+
+				});
+
 			// Initialize.
 
 				// Hide main, articles.

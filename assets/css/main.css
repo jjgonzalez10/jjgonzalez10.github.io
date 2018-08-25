@@ -144,6 +144,8 @@
 
 .accordian li img {
 	display: block;
+	width: 500px;
+	height: 350px;
 }
 
 
