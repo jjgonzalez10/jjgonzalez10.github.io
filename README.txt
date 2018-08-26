@@ -30,7 +30,7 @@ Licencia MIT:
 El proyecto cuenta con la licencia MIT ingresando al siguiente link: https://github.com/jjgonzalez10/jjgonzalez10.github.io/blob/master/LICENSE.txt
 
 Aclaraciones generales:
-Hice uso de un template libre , el cual estaba desarrollo netamente en HTML y CSS , yo fui la persona encargada
+Hice uso de un template libre , el cual estaba desarrollado netamente en HTML y CSS , yo fui la persona encargada
 de modificar el template para acomodarlo segun lo que queria , por lo tanto hice modificaciones tanto en HTML como en 
 el CSS.Ademas , incorpore Bootstrap y hice ciertas transciones con jQuery.
 
