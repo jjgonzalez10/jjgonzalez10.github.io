@@ -24,7 +24,7 @@ pagina del proyecto : https://jjgonzalez10.github.io
 autor de la pagina : Jhon Jairo Gonzalez Melo 
 
 Screenshot:
-![captura](/images/Captura.PNG)
+![screenshot](https://raw.githubusercontent.com/jjgonzalez10/jjgonzalez10.github.io/master/images/Captura.PNG)
 
 
 Licencia MIT:
