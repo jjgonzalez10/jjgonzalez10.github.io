@@ -25,7 +25,7 @@ autor de la pagina : Jhon Jairo Gonzalez Melo
 
 Screenshot:
 ![screenshot](https://raw.githubusercontent.com/jjgonzalez10/jjgonzalez10.github.io/master/images/Captura.PNG)
-![screenshotHomeJohnGuerra](https://raw.githubusercontent.com/john-guerra/homepageJohnGuerra/master/img/screenshotHomeJohnGuerra.png)
+
 
 
 Licencia MIT:
